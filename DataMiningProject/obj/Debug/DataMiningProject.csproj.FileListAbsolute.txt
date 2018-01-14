@@ -1,0 +1,7 @@
+D:\Master\Data Mining\DataMiningProject\DataMiningProject\bin\Debug\DataMiningProject.exe.config
+D:\Master\Data Mining\DataMiningProject\DataMiningProject\bin\Debug\DataMiningProject.exe
+D:\Master\Data Mining\DataMiningProject\DataMiningProject\bin\Debug\DataMiningProject.pdb
+D:\Master\Data Mining\DataMiningProject\DataMiningProject\obj\Debug\DataMiningProject.csprojResolveAssemblyReference.cache
+D:\Master\Data Mining\DataMiningProject\DataMiningProject\obj\Debug\DataMiningProject.csproj.CoreCompileInputs.cache
+D:\Master\Data Mining\DataMiningProject\DataMiningProject\obj\Debug\DataMiningProject.exe
+D:\Master\Data Mining\DataMiningProject\DataMiningProject\obj\Debug\DataMiningProject.pdb
